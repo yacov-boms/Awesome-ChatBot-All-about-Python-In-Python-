@@ -17,11 +17,11 @@ It also uses _PyWebIo_ - A simple but advanced Python package that initiates loc
 *	Creates a semantic query object
 *	**Checks cosine similarity** between the query and each of the file's sentences  
   based on the **English large model semantics.**
-*	Picks the best similar sentence and sends it to the user
+*	Picks the best similar sentence and sends it to the user.
 In the attached demonstration we can see how Spacy detects similarity between morpholigically different words like 'highlight' and 'emphasizes', widespread' and 'popular', 'scaleable' and 'extensible'.
 
 **Innovation:**  
-**Use of PyWebIo, an advanced Python package that handles automatically server construcion and basic opeations including controls and styling. 
-No need for explicit use of HTML, CSS or Java script.
-The package saves the need to directly address server issues and thereby facilitates development, 
+**Use of PyWebIo, an advanced Python package that handles automatically server construcion and basic opeations including controls and styling.** 
+**No need for explicit use of HTML, CSS or Java script.**
+**The package saves the need to directly address server issues and thereby facilitates development, 
 optimizes and accelerates it.**  
